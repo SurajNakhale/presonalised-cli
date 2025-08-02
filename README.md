@@ -94,13 +94,13 @@ counter help count-words
 
 ```bash
 $ counter count-words file.txt
-Word count: 128
+Word count: 5
 
 $ counter count-lines file.txt
-Line count: 14
+Line count: 1
 
 $ counter count-character file.txt
-Character count: 763
+Character count: 20
 ```
 
 ---
